@@ -36,3 +36,5 @@ let x = obj.getA
 console.log(obj.getA());
 // console.log(x);
 console.log(x());
+
+console.log("Shivam")
